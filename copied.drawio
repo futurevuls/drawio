@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T06:47:18.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Jy6ri9x1t_rCMI6DkJ0m" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T07:23:01.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="0XGfebQBbeL7S2b1m54X" version="13.4.8" type="github">
   <diagram id="z6h4n0hDWIFQZGOottjq" name="Page-1">
     <mxGraphModel dx="2053" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="590" height="390" as="geometry" />
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-90" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="20" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-89" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="997" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-87" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="507" width="580" height="390" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-5" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="20" width="490" height="390" as="geometry" />
+          <mxGeometry x="150" y="20" width="580" height="390" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-26" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="370" y="87" width="330" height="290" as="geometry" />
@@ -46,7 +52,7 @@
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-16" value="OrgA所属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-18" value="OrgA/GrpA所属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-18" value="OrgA/GrpA所属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-23" target="bGIm-FNJNIMSJGsGLvmY-12">
@@ -54,12 +60,6 @@
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-23" value="コード" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="165" y="130" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="143" y="500" width="590" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-29" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="243" y="500" width="490" height="390" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-30" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="373" y="567" width="330" height="290" as="geometry" />
@@ -78,7 +78,7 @@
             <mxPoint x="203" y="673" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-37" value="未登録" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-37" value="未登録" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="33" y="643" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-38" value="承諾" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-39" target="bGIm-FNJNIMSJGsGLvmY-42">
@@ -101,12 +101,6 @@
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-47" value="仮パス" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="30" y="760" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-62" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="146" y="990" width="590" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-63" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="246" y="990" width="490" height="390" as="geometry" />
-        </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-64" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="376" y="1057" width="330" height="290" as="geometry" />
         </mxCell>
@@ -119,33 +113,120 @@
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-67" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="441" y="1084" width="210" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-68" value="ログイン" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-69" target="bGIm-FNJNIMSJGsGLvmY-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="206" y="1163" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-69" value="未登録" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="36" y="1133" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-70" value="承諾" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-71" target="bGIm-FNJNIMSJGsGLvmY-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="401" y="1163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-71" value="本登録" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-71" value="本登録" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1133" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-72" value="OrgA/GrpA所属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="536" y="1133" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-73" value="グループに外部の人を招待" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-74" target="bGIm-FNJNIMSJGsGLvmY-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-73" value="グループに外部の人を招待" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-74" target="bGIm-FNJNIMSJGsGLvmY-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="1193" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bGIm-FNJNIMSJGsGLvmY-74" value="グループ管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="473" y="1210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGIm-FNJNIMSJGsGLvmY-75" value="仮パス" style="shape=message;whiteSpace=wrap;html=1;outlineConnect=0;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="33" y="1250" width="40" height="30" as="geometry" />
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-78" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="87" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-79" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="77" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-80" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="124" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-81" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="114" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-82" value="承諾" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-83" target="bGIm-FNJNIMSJGsGLvmY-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1335" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-83" value="OrgA所属" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-84" value="OrgA/GrpA所属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="163" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-85" value="このオーガニゼーションから選択" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=bottom;labelPosition=left;verticalLabelPosition=top;align=right;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-86" target="bGIm-FNJNIMSJGsGLvmY-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="985" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-86" value="グループ管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-99" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="507" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-100" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="574" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-101" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="564" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-102" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="611" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-103" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="601" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-105" value="OrgA所属" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-110" value="OrgAには残る" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-106" target="bGIm-FNJNIMSJGsGLvmY-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-106" value="OrgA/GrpA所属" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;dashed=1;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="650" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelPosition=right;verticalLabelPosition=bottom;align=left;verticalAlign=top;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-108" target="bGIm-FNJNIMSJGsGLvmY-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-125" value="グループから削除" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bGIm-FNJNIMSJGsGLvmY-109">
+          <mxGeometry x="-0.1158" y="-13" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-108" value="グループ管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="727" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-111" value="FutureVuls" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="980" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-112" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1047" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-113" value="Org A" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="1037" width="330" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-114" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="1084" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-115" value="Grp A" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="1074" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-124" value="Fvulsには残る" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-116" target="bGIm-FNJNIMSJGsGLvmY-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-116" value="OrgA所属" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;outlineConnect=0;labelPosition=center;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1123" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-119" value="オーガニゼーションから削除" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;" edge="1" parent="1" source="bGIm-FNJNIMSJGsGLvmY-120" target="bGIm-FNJNIMSJGsGLvmY-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-120" value="オーガニゼーション管理者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1244" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGIm-FNJNIMSJGsGLvmY-123" value="本登録" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1123" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
